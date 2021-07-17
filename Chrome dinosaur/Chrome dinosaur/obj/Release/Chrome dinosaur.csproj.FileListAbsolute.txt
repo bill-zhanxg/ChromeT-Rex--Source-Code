@@ -1,0 +1,18 @@
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Dead.wav
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Harder.wav
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Jump.wav
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Winning.wav
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Chrome dinosaur.exe.config
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Chrome dinosaur.exe
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Chrome dinosaur.pdb
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome dinosaur.csproj.AssemblyReference.cache
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome_dinosaur.Form1.resources
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome_dinosaur.Properties.Resources.resources
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome dinosaur.csproj.GenerateResource.cache
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome dinosaur.csproj.CoreCompileInputs.cache
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome dinosaur.exe
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome dinosaur.pdb
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Chrome dinosaur.exe.manifest
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\bin\Release\Chrome dinosaur.application
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome dinosaur.exe.manifest
+C:\Users\billz\Desktop\Chrome dinosaur\Chrome dinosaur\obj\Release\Chrome dinosaur.application
